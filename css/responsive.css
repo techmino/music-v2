@@ -1,0 +1,137 @@
+/*  for menu bar */
+@media (max-width:575px) {
+
+    /*  for menu bar */
+    .header-section .col-sm {
+        position: absolute;
+
+    }
+
+    .feature-seciton .feature {
+        text-align: center !important;
+        max-width: 100% !important;
+    }
+
+    .feature-seciton .feature p {
+        max-width: 100%;
+    }
+
+
+}
+
+/* Feature section */
+
+
+
+@media (max-width:768px) {
+
+    /* titke section */
+    div h1,
+    div h1 span {
+        font-size: 25px;
+    }
+
+    .btn-custom {
+        color: #fff;
+        border: 1px solid #2d64af;
+        border-radius: 30px;
+        padding: 15px 18px;
+        box-shadow: 2px 0 0 0 #ff3334;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .headphone-section {
+        background-position: right;
+
+
+    }
+
+    /* Feature section */
+    .feature-seciton {}
+
+    .feature-seciton p {}
+
+    /* Footer section */
+
+    .footer {
+        display: block !important;
+        
+        
+    }
+    .footer-left{
+       padding-left: 100px;
+       padding-bottom: 20px;
+    }
+    
+
+    
+}
+
+@media (max-width:992px) {
+
+    /* title section */
+    div h1,
+    div h1 span {
+        font-size: 25px;
+    }
+
+    /* logo part */
+    .logo img {
+        transform: scale(70%);
+        padding: 0;
+    }
+
+    .header-section .left {
+        padding: 0;
+    }
+
+    /* App section start */
+
+    .apps-section img {
+        width: 326px;
+        height: 580px;
+        border-bottom: 1px solid #ff3334;
+
+
+    }
+
+    .headphone-section {
+        background-position: center;
+
+    }
+
+    /* Feature section */
+    .feature-seciton {
+        background-image: url(../images/phone-1.png);
+        background-position: center center;
+    }
+
+    .feature-seciton h3 {
+        font-size: 15px;
+
+    }
+
+    .feature-seciton .feature {
+        margin-top: 25px !important;
+    }
+
+
+
+}
+
+@media (max-width:1200px) {
+    /* Feature section */
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .feature-seciton .feature {
+        margin-top: 55px;
+    }
+
+
+}

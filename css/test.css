@@ -1,0 +1,34 @@
+body{
+
+    background: azure;
+    width: 100%;
+    height: 100vh;
+}
+.box1{
+    width: 500px;
+    height: 200px;
+    background:burlywood;
+    margin: 0 auto;  
+    text-align: center;
+    
+  
+}   
+   
+h1{
+   background: red;
+  
+  
+
+    
+}  
+
+img{
+    background: blue;
+}
+.test{
+    color: red;
+}
+
+.test span{
+    color: blue;
+}
